@@ -1,7 +1,7 @@
 <!-- Hi there 👋 -->
-
-![partyparrot](https://user-images.githubusercontent.com/49836053/121802883-71dd3980-cc47-11eb-871b-22c2e7af157d.gif)
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/49836053/121802883-71dd3980-cc47-11eb-871b-22c2e7af157d.gif" />
+</p>
 
 <!--
 **NescafeAlgeria/nescafealgeria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
