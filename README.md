@@ -1,6 +1,6 @@
 <!-- Hi there 👋 -->
 
-<div class="tenor-gif-embed" data-postid="19129917" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/party-parrot-rgb-rainbow-dance-cool-gif-19129917">Party Parrot Rgb Rainbow Dance Cool GIF</a> from <a href="https://tenor.com/search/partyparrotrgbrainbowdancecool-gifs">Partyparrotrgbrainbowdancecool GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://tenor.com/view/party-parrot-rgb-rainbow-dance-cool-gif-19129917" />
 
 <!--
 **NescafeAlgeria/nescafealgeria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
